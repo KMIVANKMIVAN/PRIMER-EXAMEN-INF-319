@@ -1,0 +1,27 @@
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\EJERCICIO 5.exe
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\EJERCICIO 5.deps.json
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\EJERCICIO 5.runtimeconfig.json
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\EJERCICIO 5.runtimeconfig.dev.json
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\EJERCICIO 5.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\EJERCICIO 5.pdb
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\cs\FSharp.Core.resources.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\de\FSharp.Core.resources.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\es\FSharp.Core.resources.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\fr\FSharp.Core.resources.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\it\FSharp.Core.resources.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\ja\FSharp.Core.resources.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\ko\FSharp.Core.resources.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\pl\FSharp.Core.resources.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\pt-BR\FSharp.Core.resources.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\ru\FSharp.Core.resources.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\tr\FSharp.Core.resources.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\zh-Hans\FSharp.Core.resources.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\bin\Debug\netcoreapp3.1\zh-Hant\FSharp.Core.resources.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\obj\Debug\netcoreapp3.1\EJERCICIO 5.AssemblyInfoInputs.cache
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\obj\Debug\netcoreapp3.1\EJERCICIO 5.AssemblyInfo.fs
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\obj\Debug\netcoreapp3.1\EJERCICIO 5.fsproj.CopyComplete
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\obj\Debug\netcoreapp3.1\EJERCICIO 5.dll
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\obj\Debug\netcoreapp3.1\EJERCICIO 5.pdb
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\obj\Debug\netcoreapp3.1\EJERCICIO 5.genruntimeconfig.cache
+A:\319\EXAMEN 1\EJERCICIO 5\EJERCICIO 5\obj\Debug\netcoreapp3.1\EJERCICIO 5.fsproj.AssemblyReference.cache
